@@ -55,16 +55,7 @@ const AboutPage = () => {
               Chaque sac, chaque paire de chaussures que nous proposons a été choisie avec soin. Nous privilégions les matériaux nobles, les finitions impeccables et les designs intemporels qui résistent aux tendances éphémères.
             </p>
             
-            <figure className="my-12">
-              <img
-                src="https://images.unsplash.com/photo-1644329438453-9492ac028508?q=80&w=869&auto=format&fit=crop"
-                alt="Artisan travaillant sur un sac en cuir"
-                className="rounded-lg shadow-md w-full"
-              />
-              <figcaption className="text-center mt-2 text-gray-500">
-                Un de nos artisans partenaires au travail
-              </figcaption>
-            </figure>
+            
             
             <h2>Notre engagement</h2>
             <p>
