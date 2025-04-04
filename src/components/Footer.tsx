@@ -34,9 +34,9 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <div className="space-y-2 text-sm">
-              <p>17 Rue de la Mode</p>
-              <p>75001 Paris, France</p>
-              <p>contact@atelierunique.com</p>
+              <p>25 Rue de Ponthieu</p>
+              <p>75008 Paris, France</p>
+              <p>hr.diakette.market@gmail.com</p>
               <div className="flex space-x-4 pt-4">
                 <a href="#" className="text-gray-700 hover:text-boutique-burgundy">
                   <Facebook size={20} />
