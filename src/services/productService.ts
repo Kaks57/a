@@ -111,6 +111,150 @@ class ProductService {
       category: "chaussures",
       available: true
     },  
+    {
+      id: "12",
+      name: "Portefeuilles Louis Vuitton",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/12.jpeg",
+      category: "accesoires",
+      available: true
+    },  
+    {
+      id: "13",
+      name: "Portefeuilles Louis Vuitton",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/13.jpeg",
+      category: "accesoires",
+      available: true
+    },  
+    {
+      id: "14",
+      name: "Portefeuilles Louis Vuitton",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/14.jpeg",
+      category: "accesoires",
+      available: true
+    }, 
+    {
+      id: "15",
+      name: "T-shirt Louis Vuitton",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/15.jpeg",
+      category: "T-SHIRT",
+      available: true
+    }, 
+    {
+      id: "16",
+      name: "T-shirt Casablanca",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/16.jpeg",
+      category: "T-SHIRT",
+      available: true
+    }, 
+    {
+      id: "17",
+      name: "T-shirt Casablanca",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/17.jpeg",
+      category: "T-SHIRT",
+      available: true
+    }, 
+    {
+      id: "18",
+      name: "T-shirt ",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/18.jpeg",
+      category: "T-SHIRT",
+      available: true
+    }, 
+    {
+      id: "19",
+      name: "T-shirt ",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/19.jpeg",
+      category: "T-SHIRT",
+      available: true
+    }, 
+    {
+      id: "20",
+      name: "T-shirt Casablanca", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/20.jpeg",
+      category: "T-SHIRT",
+      available: true
+    }, 
+    {
+      id: "21",
+      name: "T-shirt Casablanca", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/21.jpeg",
+      category: "T-SHIRT",
+      available: true
+    }, 
+    {
+      id: "22",
+      name: "T-shirt Louis Vuitton", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/22.jpeg",
+      category: "T-SHIRT",
+      available: true
+    },
+    {
+      id: "23",
+      name: "Ceinture Louis Vuitton", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/23.jpeg",
+      category: "acessoires",
+      available: true
+    },
+    {
+      id: "24",
+      name: "Portefeuille Louis Vuitton", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/24.jpeg",
+      category: "acessoires",
+      available: true
+    },
+    {
+      id: "25",
+      name: "New Balance 2002R", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/25.jpeg",
+      category: "acessoires",
+      available: true
+    },
+    {
+      id: "26",
+      name: "New Balance 2002R", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/26.jpeg",
+      category: "acessoires",
+      available: true
+    },
+    {
+      id: "27",
+      name: "New Balance 2002R", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/27.jpeg",
+      category: "acessoires",
+      available: true
+    },
 
     
   ];
