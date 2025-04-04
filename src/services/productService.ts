@@ -39,6 +39,34 @@ class ProductService {
       category: "Sacs",
       available: true
     },
+    {
+      id: "4",
+      name: "Sac bandoulière Louis Vuitton",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/4.jpeg",
+      category: "Sacs",
+      available: true
+    },
+    {
+      id: "5",
+      name: "Sac bandoulière Louis Vuitton",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/5.jpeg",
+      category: "Sacs",
+      available: true
+    },
+    {
+      id: "6",
+      name: "Sac bandoulière Louis Vuitton",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/6.jpeg",
+      category: "Sacs",
+      available: true
+    },
+
     
   ];
   
