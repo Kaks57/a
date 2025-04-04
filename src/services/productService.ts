@@ -27,7 +27,7 @@ class ProductService {
       description: "Escarpins élégants en daim bleu marine avec un talon de 8 cm. Design exclusif, disponible uniquement chez nous.",
       price: 280,
       image: "/2.jpeg",
-      category: "Chaussures",
+      category: "chaussures",
       available: true
     },
     {
@@ -77,7 +77,7 @@ class ProductService {
     },
     {
       id: "8",
-      name: "Sac bandoulière Louis Vuitton",
+      name: "Sac bandoulière Gucci",
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/8.jpeg",
@@ -95,16 +95,16 @@ class ProductService {
     },  
     {
       id: "10",
-      name: "Sacs a main ",
+      name: "Sacs a main Balmain ",
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/10 (2).jpeg",
-      category: "Accesoires",
+      category: "Sacs",
       available: true
     },
     {
       id: "11",
-      name: "Sandales ",
+      name: "Sandales Hèrmes", 
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/11.jpeg",
@@ -234,7 +234,7 @@ class ProductService {
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/25.jpeg",
-      category: "acessoires",
+      category: "chaussures",
       available: true
     },
     {
@@ -243,7 +243,7 @@ class ProductService {
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/26.jpeg",
-      category: "acessoires",
+      category: "chaussures",
       available: true
     },
     {
@@ -252,7 +252,61 @@ class ProductService {
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/27.jpeg",
-      category: "acessoires",
+      category: "chaussures",
+      available: true
+    },
+    {
+      id: "28",
+      name: "New Balance ", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/28.jpeg",
+      category: "chaussures",
+      available: true
+    },
+    {
+      id: "29",
+      name: "Nike ", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/29.jpeg",
+      category: "chaussures",
+      available: true
+    },
+    {
+      id: "30",
+      name: "Nike ", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/30.jpeg",
+      category: "chaussures",
+      available: true
+    },
+    {
+      id: "31",
+      name: "Asics ", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/31.jpeg",
+      category: "chaussures",
+      available: true
+    },
+    {
+      id: "32",
+      name: "Nike ", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/32.jpeg",
+      category: "chaussures",
+      available: true
+    },
+    {
+      id: "33",
+      name: "New Balance ", 
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/33.jpeg",
+      category: "chaussures",
       available: true
     },
 
