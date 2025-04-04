@@ -149,7 +149,7 @@ class ProductService {
     }, 
     {
       id: "16",
-      name: "T-shirt Casablanca",
+      name: "T-shirt Louis Vuitton",
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/16.jpeg",
@@ -167,7 +167,7 @@ class ProductService {
     }, 
     {
       id: "18",
-      name: "T-shirt ",
+      name: "T-shirt Louis Vuitton",
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/18.jpeg",
@@ -176,7 +176,7 @@ class ProductService {
     }, 
     {
       id: "19",
-      name: "T-shirt ",
+      name: "T-shirt Louis Vuitton",
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/19.jpeg",
@@ -194,7 +194,7 @@ class ProductService {
     }, 
     {
       id: "21",
-      name: "T-shirt Casablanca", 
+      name: "T-shirt Louis Vuitton", 
       description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/21.jpeg",
