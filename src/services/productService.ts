@@ -77,14 +77,32 @@ class ProductService {
     },
     {
       id: "8",
-      name: "Porte Feuille Louis Vuitton",
-      description: "Porte Feuille Louis Vuitton .",
+      name: "Sac bandoulière Louis Vuitton",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
       price: 320,
       image: "/8.jpeg",
       category: "Sacs",
       available: true
     },
-
+    {
+      id: "9",
+      name: "Porte Feuille Louis Vuitton",
+      description: "Porte Feuille Louis Vuitton .",
+      price: 320,
+      image: "/9.jpeg",
+      category: "Accesoires",
+      available: true
+    },  
+    {
+      id: "10",
+      name: "Sacs a main ",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/10 (2).jpeg",
+      category: "Accesoires",
+      available: true
+    }, 
+    
     
   ];
   
