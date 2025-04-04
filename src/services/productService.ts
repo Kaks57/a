@@ -66,6 +66,24 @@ class ProductService {
       category: "Sacs",
       available: true
     },
+    {
+      id: "7",
+      name: "Porte Feuille Louis Vuitton",
+      description: "Porte Feuille Louis Vuitton .",
+      price: 320,
+      image: "/7.jpeg",
+      category: "Accesoires",
+      available: true
+    },
+    {
+      id: "8",
+      name: "Porte Feuille Louis Vuitton",
+      description: "Porte Feuille Louis Vuitton .",
+      price: 320,
+      image: "/8.jpeg",
+      category: "Sacs",
+      available: true
+    },
 
     
   ];

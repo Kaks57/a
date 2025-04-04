@@ -30,7 +30,7 @@ const AboutPage = () => {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="prose prose-lg mx-auto">
             <p className="lead text-xl text-center mb-8">
-              Bienvenue chez Atelier Unique, où chaque pièce raconte une histoire et apporte une touche d'exclusivité à votre style.
+              Bienvenue chez HR Diakete, où chaque pièce raconte une histoire et apporte une touche d'exclusivité à votre style.
             </p>
             
             <div className="my-12 relative">
