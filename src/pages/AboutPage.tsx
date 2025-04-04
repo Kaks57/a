@@ -7,16 +7,23 @@ const AboutPage = () => {
   return (
     <div className="animate-fade-in">
       {/* Hero */}
-      <section className="relative">
-        <div className="bg-[url('https://images.unsplash.com/photo-1626497764746-6dc36546b388?q=80&w=1026&auto=format&fit=crop')] bg-cover bg-center h-[50vh]">
-          <div className="absolute inset-0 bg-black/30"></div>
-          <div className="relative h-full flex items-center justify-center">
-            <div className="text-center text-white px-4">
-              <h1 className="text-5xl font-bold mb-4">Notre Histoire</h1>
-            </div>
-          </div>
-        </div>
-      </section>
+<section className="relative">
+  <div className="relative h-[50vh]">
+    {/* Image de fond avec <img> */}
+    <img
+      src="chaussures.jpeg"
+      alt="Notre Histoire"
+      className="absolute inset-0 w-full h-full object-cover"
+    />
+    <div className="absolute inset-0 bg-black/30"></div>
+    <div className="relative h-full flex items-center justify-center">
+      <div className="text-center text-white px-4">
+        <h1 className="text-5xl font-bold mb-4">Notre Histoire</h1>
+      </div>
+    </div>
+  </div>
+</section>
+
       
       {/* Story */}
       <section className="py-16">
