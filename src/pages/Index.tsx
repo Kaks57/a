@@ -28,25 +28,32 @@ const Index = () => {
   
   return (
     <div className="animate-fade-in">
-      {/* Hero Section */}
-      <section className="relative">
-        <div className="bg-[url('https://images.unsplash.com/photo-1445205170230-053b83016050?q=80&w=1171&auto=format&fit=crop')] bg-cover bg-center h-[80vh]">
-          <div className="absolute inset-0 bg-black/40"></div>
-          <div className="relative h-full flex items-center justify-center">
-            <div className="text-center text-white px-4">
-              <h1 className="text-5xl md:text-6xl font-bold mb-6">Atelier Unique</h1>
-              <p className="text-xl md:text-2xl max-w-2xl mx-auto mb-8">
-                Découvrez notre collection de pièces uniques et exclusives
-              </p>
-              <Link to="/products">
-                <Button className="bg-boutique-burgundy hover:bg-boutique-burgundy/90 text-white px-8 py-6 text-lg">
-                  Explorer la collection
-                </Button>
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
+     {/* Hero Section */}
+<section className="relative">
+  <div className="relative h-[80vh]">
+    {/* Image de fond */}
+    <img
+      src="/PLAN.jpeg"
+      alt="Atelier Unique"
+      className="absolute inset-0 w-full h-full object-cover"
+    />
+    <div className="absolute inset-0 bg-black/40"></div>
+    <div className="relative h-full flex items-center justify-center">
+      <div className="text-center text-white px-4">
+        <h1 className="text-5xl md:text-6xl font-bold mb-6">Atelier Unique</h1>
+        <p className="text-xl md:text-2xl max-w-2xl mx-auto mb-8">
+          Découvrez notre collection de pièces uniques et exclusives
+        </p>
+        <Link to="/products">
+          <Button className="bg-boutique-burgundy hover:bg-boutique-burgundy/90 text-white px-8 py-6 text-lg">
+            Explorer la collection
+          </Button>
+        </Link>
+      </div>
+    </div>
+  </div>
+</section>
+
       
       {/* Featured Products */}
       <section className="py-16 bg-boutique-cream/50">
