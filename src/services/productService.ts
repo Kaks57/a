@@ -101,8 +101,17 @@ class ProductService {
       image: "/10 (2).jpeg",
       category: "Accesoires",
       available: true
-    }, 
-    
+    },
+    {
+      id: "11",
+      name: "Sandales ",
+      description: "Un sac bandoulière vintage en cuir patiné, avec des finitions en laiton. Une pièce unique avec beaucoup d'histoire.",
+      price: 320,
+      image: "/11.jpeg",
+      category: "chaussures",
+      available: true
+    },  
+
     
   ];
   
