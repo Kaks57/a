@@ -96,7 +96,7 @@ class ProductService {
       id: "10",
       name: "Sac à main Balmain",
       description: "Sac en cuir véritable Balmain, à la fois luxueux et fonctionnel.",
-      price: 80,
+      price: 150,
       image: "/10 (2).jpeg",
       category: "Sacs",
       available: true
