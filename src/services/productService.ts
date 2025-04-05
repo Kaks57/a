@@ -319,7 +319,7 @@ class ProductService {
     },
     {
       id: "35",
-      name: "Sac Louis Vuitton",
+      name: "Sac Keepall Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 80,
       image: "/35.jpeg",
@@ -346,7 +346,7 @@ class ProductService {
     },
     {
       id: "38",
-      name: "Sac Louis Vuitton",
+      name: "Sac Keepall Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 80,
       image: "/38.jpeg",
@@ -364,7 +364,7 @@ class ProductService {
     },
     {
       id: "40",
-      name: "Sac Louis Vuitton",
+      name: "Sac Keepall Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 80,
       image: "/40 (2).jpeg",
