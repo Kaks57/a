@@ -364,7 +364,7 @@ class ProductService {
     },
     {
       id: "40",
-      name: "Sac Keepall Louis Vuitton",
+      name: "Sacoche Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 80,
       image: "/40 (2).jpeg",
