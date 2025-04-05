@@ -130,7 +130,7 @@ class ProductService {
     },
     {
       id: "14",
-      name: "Portefeuille Louis Vuitton",
+      name: "Pochette Louis Vuitton",
       description: "Portefeuille pratique et résistant, parfait pour un usage quotidien.",
       price: 60,
       image: "/14.jpeg",
