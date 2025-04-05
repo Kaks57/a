@@ -24,7 +24,7 @@ class ProductService {
       id: "2",
       name: "Chaussures DIOR",
       description: "Chaussures en cuir souple DIOR, confortables et stylées pour un look sophistiqué.",
-      price: 90,
+      price: 100,
       image: "/2.jpeg",
       category: "chaussures",
       available: true
@@ -33,7 +33,7 @@ class ProductService {
       id: "3",
       name: "Sac bandoulière Louis Vuitton",
       description: "Sac bandoulière Louis Vuitton en cuir grainé, compact et tendance.",
-      price: 80,
+      price: 120,
       image: "/3.jpeg",
       category: "Sacs",
       available: true
@@ -69,7 +69,7 @@ class ProductService {
       id: "7",
       name: "Porte-feuille Louis Vuitton",
       description: "Portefeuille raffiné en cuir signé Louis Vuitton avec emplacements pour cartes.",
-      price: 60,
+      price: 70,
       image: "/7.jpeg",
       category: "accesoires",
       available: true
