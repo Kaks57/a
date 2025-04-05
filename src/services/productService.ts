@@ -308,6 +308,70 @@ class ProductService {
       category: "chaussures",
       available: true
     },
+    {
+      id: "34",
+      name: "Sacoche Christian Dior",
+      description: "Sacoche élégante en cuir avec logo Dior, parfaite pour les sorties.",
+      price: 80,
+      image: "/34.jpeg",
+      category: "Sacs",
+      available: true
+    },
+    {
+      id: "35",
+      name: "Sac Louis Vuitton",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 80,
+      image: "/35.jpeg",
+      category: "Sacs",
+      available: true
+    },
+    {
+      id: "36",
+      name: "New Balance",
+      description: "Modèle confortable et passe-partout pour un usage quotidien.",
+      price: 90,
+      image: "/36.jpeg",
+      category: "chaussures",
+      available: true
+    },
+    {
+      id: "37",
+      name: "Sacoche Christian Dior",
+      description: "Sacoche élégante en cuir avec logo Dior, parfaite pour les sorties.",
+      price: 80,
+      image: "/37.jpeg",
+      category: "Sacs",
+      available: true
+    },
+    {
+      id: "38",
+      name: "Sac Louis Vuitton",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 80,
+      image: "/38.jpeg",
+      category: "Sacs",
+      available: true
+    },
+    {
+      id: "39",
+      name: "Sacoche Christian Dior",
+      description: "Sacoche élégante en cuir avec logo Dior, parfaite pour les sorties.",
+      price: 80,
+      image: "/39.jpeg",
+      category: "Sacs",
+      available: true
+    },
+    {
+      id: "40",
+      name: "Sac Louis Vuitton",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 80,
+      image: "/40 (2).jpeg",
+      category: "Sacs",
+      available: true
+    },
+       
   ];
   
   async getProducts(): Promise<Product[]> {
