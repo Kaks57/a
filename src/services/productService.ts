@@ -87,7 +87,7 @@ class ProductService {
       id: "9",
       name: "Pochette Voyage Souple Louis Vuitton",
       description: "Compact et pratique, avec un design élégant et moderne.",
-      price: 60,
+      price: 80,
       image: "/9.jpeg",
       category: "accesoires",
       available: true
@@ -105,7 +105,7 @@ class ProductService {
       id: "11",
       name: "Sandales Hermès",
       description: "Sandales élégantes et confortables signées Hermès. Idéales pour l'été.",
-      price: 90,
+      price: 80,
       image: "/11.jpeg",
       category: "chaussures",
       available: true
