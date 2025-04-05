@@ -85,7 +85,7 @@ class ProductService {
     },
     {
       id: "9",
-      name: "Porte-feuille Louis Vuitton",
+      name: "Pochette Voyage Souple Louis Vuitton",
       description: "Compact et pratique, avec un design élégant et moderne.",
       price: 60,
       image: "/9.jpeg",
