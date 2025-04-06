@@ -321,7 +321,7 @@ class ProductService {
       id: "35",
       name: "Sac Keepall Louis Vuitton",
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
-      price: 80,
+      price: 150,
       image: "/35.jpeg",
       category: "Sacs",
       available: true
@@ -371,7 +371,35 @@ class ProductService {
       category: "Sacs",
       available: true
     },
-       
+    {
+      id: "41",
+      name: "Sacoche bandoulière Louis Vuitton",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 130,
+      image: "/41 (2).jpeg",
+      category: "Sacs",
+      available: true
+    },
+    {
+      id: "42",
+      name: "Pochette Louis Vuitton",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 90,
+      image: "/42 (2).jpeg",
+      category: "Accesoires",
+      available: true
+    },   
+    {
+      id: "43",
+      name: "Pochette Louis Vuitton",
+      description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
+      price: 90,
+      image: "/43 (2).jpeg",
+      category: "Accesoires",
+      available: true
+    },                           
+
+
   ];
   
   async getProducts(): Promise<Product[]> {
