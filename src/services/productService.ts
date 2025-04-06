@@ -386,7 +386,7 @@ class ProductService {
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 90,
       image: "/42 (2).jpeg",
-      category: "Accesoires",
+      category: "accesoires",
       available: true
     },   
     {
@@ -395,7 +395,7 @@ class ProductService {
       description: "Sacoche élégante en cuir avec logo LV, parfaite pour les sorties.",
       price: 90,
       image: "/43 (2).jpeg",
-      category: "Accesoires",
+      category: "accesoires",
       available: true
     },                           
 
