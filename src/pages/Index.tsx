@@ -42,7 +42,7 @@ const Index = () => {
       <div className="text-center text-white px-4">
         <h1 className="text-5xl md:text-6xl font-bold mb-6">Boutique en ligne</h1>
         <p className="text-xl md:text-2xl max-w-2xl mx-auto mb-8">
-          Découvrez notre collection de pièces uniques et exclusives
+          Découvrez notre Boutique en ligne accessoires - vêtements - parfumerie
         </p>
         <Link to="/products">
           <Button className="bg-boutique-burgundy hover:bg-boutique-burgundy/90 text-white px-8 py-6 text-lg">
